@@ -6,19 +6,19 @@ This project is an end-to-end plant disease detection system built using Flutter
 # Flutter Mobile App
 
 Clean UI for uploading images <br>
-Displays prediction results and confidence score/n
+Displays prediction results and confidence score<br>
 Communicates with FastAPI backend via REST APIs
 
 # Machine Learning Model
 
-Built using TensorFlow, CNN, and TensorFlow Pipeline /n
-Custom dataset preprocessing & augmentation /n
-Achieved 98% accuracy on test data/n
+Built using TensorFlow, CNN, and TensorFlow Pipeline <br>
+Custom dataset preprocessing & augmentation <br>
+Achieved 98% accuracy on test data <br>
 Optimized for fast inference
 
 # FastAPI Backend
 
-Receives image uploads from the app/n
-Loads and runs the trained TensorFlow model/n
-Returns prediction + confidence/n
+Receives image uploads from the app <br>
+Loads and runs the trained TensorFlow model <br>
+Returns prediction + confidence <br>
 Deployed on Railway (web service)
