@@ -5,7 +5,7 @@ This project is an end-to-end plant disease detection system built using Flutter
 
 # Flutter Mobile App
 
-Clean UI for uploading images /n
+Clean UI for uploading images <br>
 Displays prediction results and confidence score/n
 Communicates with FastAPI backend via REST APIs
 
